@@ -8,4 +8,4 @@ Para rodar o projeto utilize npm start na pasta 'target-project'
 
 ## Descrição
 
-projeto exemplo de um formulario simples e tabela ordenavel com angular 13 e angular material, com uso de componentes genericos e responsivos
+Projeto exemplo de um formulario simples e tabela ordenavel com angular 13 e angular material, com uso de componentes genericos e responsivos
